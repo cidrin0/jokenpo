@@ -1,4 +1,4 @@
-package com.henrique.cidrin.Jokenpo.model.entity.move;
+package com.henrique.cidrin.Jokenpo.move;
 
 import com.henrique.cidrin.Jokenpo.model.enums.TypeResultEnum;
 

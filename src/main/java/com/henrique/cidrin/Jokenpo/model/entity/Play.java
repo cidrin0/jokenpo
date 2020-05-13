@@ -5,12 +5,14 @@ import com.henrique.cidrin.Jokenpo.model.request.PlayRequest;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.Setter;
+import lombok.ToString;
 
 import java.util.Objects;
 
 @AllArgsConstructor
 @Getter
 @Setter
+@ToString
 public class Play {
 
     private String player;

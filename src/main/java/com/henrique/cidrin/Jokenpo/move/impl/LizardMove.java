@@ -1,7 +1,7 @@
-package com.henrique.cidrin.Jokenpo.model.entity.move.impl;
+package com.henrique.cidrin.Jokenpo.move.impl;
 
-import com.henrique.cidrin.Jokenpo.model.entity.move.Move;
 import com.henrique.cidrin.Jokenpo.model.enums.TypeResultEnum;
+import com.henrique.cidrin.Jokenpo.move.Move;
 
 import java.io.Serializable;
 import java.util.List;

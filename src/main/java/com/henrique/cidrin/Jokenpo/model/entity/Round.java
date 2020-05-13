@@ -1,8 +1,8 @@
 package com.henrique.cidrin.Jokenpo.model.entity;
 
 import com.henrique.cidrin.Jokenpo.constants.MessageConstants;
-import com.henrique.cidrin.Jokenpo.model.entity.move.Move;
 import com.henrique.cidrin.Jokenpo.model.enums.TypeResultEnum;
+import com.henrique.cidrin.Jokenpo.move.Move;
 import lombok.Data;
 
 import java.util.HashSet;

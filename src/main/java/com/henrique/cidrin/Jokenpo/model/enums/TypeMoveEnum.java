@@ -2,12 +2,12 @@ package com.henrique.cidrin.Jokenpo.model.enums;
 
 import com.fasterxml.jackson.annotation.JsonCreator;
 import com.fasterxml.jackson.annotation.JsonValue;
-import com.henrique.cidrin.Jokenpo.model.entity.move.Move;
-import com.henrique.cidrin.Jokenpo.model.entity.move.impl.LizardMove;
-import com.henrique.cidrin.Jokenpo.model.entity.move.impl.PaperMove;
-import com.henrique.cidrin.Jokenpo.model.entity.move.impl.RockMove;
-import com.henrique.cidrin.Jokenpo.model.entity.move.impl.ScissorsMove;
-import com.henrique.cidrin.Jokenpo.model.entity.move.impl.SpockMove;
+import com.henrique.cidrin.Jokenpo.move.Move;
+import com.henrique.cidrin.Jokenpo.move.impl.LizardMove;
+import com.henrique.cidrin.Jokenpo.move.impl.PaperMove;
+import com.henrique.cidrin.Jokenpo.move.impl.RockMove;
+import com.henrique.cidrin.Jokenpo.move.impl.ScissorsMove;
+import com.henrique.cidrin.Jokenpo.move.impl.SpockMove;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 
